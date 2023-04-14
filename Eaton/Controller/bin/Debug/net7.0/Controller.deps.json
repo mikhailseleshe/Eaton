@@ -1,0 +1,84 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v7.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v7.0": {
+      "Controller/1.0.0": {
+        "dependencies": {
+          "Device": "1.0.0",
+          "protobuf-net": "3.2.16"
+        },
+        "runtime": {
+          "Controller.dll": {}
+        }
+      },
+      "protobuf-net/3.2.16": {
+        "dependencies": {
+          "protobuf-net.Core": "3.2.16"
+        },
+        "runtime": {
+          "lib/net6.0/protobuf-net.dll": {
+            "assemblyVersion": "3.0.0.0",
+            "fileVersion": "3.2.16.54102"
+          }
+        }
+      },
+      "protobuf-net.Core/3.2.16": {
+        "dependencies": {
+          "System.Collections.Immutable": "7.0.0"
+        },
+        "runtime": {
+          "lib/net6.0/protobuf-net.Core.dll": {
+            "assemblyVersion": "3.0.0.0",
+            "fileVersion": "3.2.16.54102"
+          }
+        }
+      },
+      "System.Collections.Immutable/7.0.0": {},
+      "Device/1.0.0": {
+        "dependencies": {
+          "protobuf-net": "3.2.16"
+        },
+        "runtime": {
+          "Device.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Controller/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "protobuf-net/3.2.16": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-W6RM2B2f5O7SigBGfkXFYzI/a7Mks+rCHtuGlE/b5O3NMupDon7I0akjCLhrfcnqIfdWDkDafseav/MnIzUSHA==",
+      "path": "protobuf-net/3.2.16",
+      "hashPath": "protobuf-net.3.2.16.nupkg.sha512"
+    },
+    "protobuf-net.Core/3.2.16": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-ZFoY0lfMUWGJ4RoyI0oNj2o2l8t08n3k27YyDD0kYWQ+vXj0hTbWEwYWOpGAfCWvyUPkq9Jcc/4uR74GICZL2g==",
+      "path": "protobuf-net.core/3.2.16",
+      "hashPath": "protobuf-net.core.3.2.16.nupkg.sha512"
+    },
+    "System.Collections.Immutable/7.0.0": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-dQPcs0U1IKnBdRDBkrCTi1FoajSTBzLcVTpjO4MBCMC7f4pDOIPzgBoX8JjG7X6uZRJ8EBxsi8+DR1JuwjnzOQ==",
+      "path": "system.collections.immutable/7.0.0",
+      "hashPath": "system.collections.immutable.7.0.0.nupkg.sha512"
+    },
+    "Device/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "JxuCwGu+o0+EKQvBKrVVb6RRdENBVISY8Fy+cjvYEohONe054DUt62ykbkzx74fr6W7lfCq2hHXmt+sTHIOxfg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\mikhailseleshe\\source\\repos\\Eaton\\Controller\\Controller.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\mikhailseleshe\\.nuget\\packages\\protobuf-net\\3.2.16\\protobuf-net.3.2.16.nupkg.sha512",
+    "C:\\Users\\mikhailseleshe\\.nuget\\packages\\protobuf-net.core\\3.2.16\\protobuf-net.core.3.2.16.nupkg.sha512",
+    "C:\\Users\\mikhailseleshe\\.nuget\\packages\\system.collections.immutable\\7.0.0\\system.collections.immutable.7.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
